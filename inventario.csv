@@ -1,0 +1,6 @@
+id_inventario, id_producto, Stock, Costo_Unitario
+1, 1, 200, 8
+2, 2, 200, 12
+3, 3, 180, 20
+4, 4, 180, 20
+5, 5, 200, 10

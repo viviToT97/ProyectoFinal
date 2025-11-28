@@ -1,0 +1,6 @@
+id_producto, nombre, precio, categoria
+1, Taco de Maiz, 8, Tacos
+2, Taco de Harina, 12, Tacos
+3, Agua de Horchata, 20, Bebida
+4, Refresco, 20, Bebida
+5, Salsas, 10, Complemento

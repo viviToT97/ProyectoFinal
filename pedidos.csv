@@ -1,0 +1,7 @@
+id_pedido, id_cliente, tipo_pedido, total, Metodo_pago
+1, 2, Tradicional, 70, Efectivo
+2, 3, Tradicional, 180, Tarjeta
+3, 4, Autoservicio, 150, Transferencia
+4, 1, Evento, 250, Transferencia
+5, 5, Evento, 320, Transferencia
+6, 6 Evento, 150, Efectivo
